@@ -1,3 +1,4 @@
+//Using if-else statement
 #include<stdio.h>
 int main(){
     int a,b;
