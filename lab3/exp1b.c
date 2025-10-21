@@ -1,4 +1,4 @@
-//Using if-else statement
+//Even odd using if-else statement
 #include<stdio.h>
 int main(){
     int a,b;

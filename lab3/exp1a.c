@@ -1,4 +1,4 @@
-//Using if statement
+//Even odd using if statement
 #include<stdio.h>
 int main()
 {

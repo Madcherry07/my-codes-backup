@@ -1,4 +1,4 @@
-//Using nested if-else
+//Largest of three numbers using nested if-else
 #include<stdio.h>
 int main()
 {
